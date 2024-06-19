@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Figueredo 🚀🚀
 
-<!--
-**carlos-figueredo-itti/carlos-figueredo-itti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! 👋 
 
-Here are some ideas to get you started:
+## Sobre Mí🔒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Estudios**: Ingeniería en Sistemas en UNIDA
+- 💼 **Cargo**: DevOps Engineer
+- ⚡ **Datos curiosos**:
+  - Me gusta jugar fúbol y soy de Cerro Porteño
+  - Me gusta jugar videojuegos 🎮 mi favorito es el Fortnite ⛏️🪵🧱
+  - Me gusta aprender nuevas cosas y que sean desafiantes
+
+## Algunas de las habilidades técnicas que estoy aplicando aqui son 💡
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📫 Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfigueredo98/)
